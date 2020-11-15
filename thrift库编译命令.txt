@@ -1,0 +1,3 @@
+1.thrift库编译教程：
+  https://blog.csdn.net/rammuschow/article/details/108348556
+  https://blog.csdn.net/baidu_38357061/article/details/100980809

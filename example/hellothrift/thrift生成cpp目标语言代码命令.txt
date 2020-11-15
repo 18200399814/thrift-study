@@ -1,0 +1,2 @@
+1.通过thrift接口描述语言生成cpp代码命令：
+  thrift --gen cpp hello.thrift
