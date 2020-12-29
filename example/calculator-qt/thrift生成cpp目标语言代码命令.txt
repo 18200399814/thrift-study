@@ -1,0 +1,5 @@
+1.通过thrift接口描述语言生成cpp代码命令：
+  thrift --gen cpp calculator.thrift
+
+2.通过命令行新建qt项目的命令：（创建出来的工程名称与代码所在的目录同名）
+  qmake -project
