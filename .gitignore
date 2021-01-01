@@ -58,3 +58,6 @@ Makefile
 x64
 Debug
 Release
+
+# Thrift-src
+*gen-cpp
