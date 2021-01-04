@@ -30,7 +30,7 @@ using namespace ::apache::thrift::protocol;
 using namespace ::apache::thrift::transport;
 using namespace ::apache::thrift::server;
 
-static shared_ptr<TTransport> g_currentTransport = nullptr;       //
+static shared_ptr<TTransport> g_currentTransport = nullptr;       //保存客户端发送数据到服务端时，连接成功产生的transport
 
 class HelloBidiServiceHandler : virtual public HelloBidiServiceIf {
 public:
